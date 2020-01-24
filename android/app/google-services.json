@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278945875398",
+    "firebase_url": "https://my-react-native-faf41.firebaseio.com",
+    "project_id": "my-react-native-faf41",
+    "storage_bucket": "my-react-native-faf41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278945875398:android:ec98fe125f1a7f63fedec7",
+        "android_client_info": {
+          "package_name": "com.djamware.rnemailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278945875398-s7mct62s74mhreph35qephn0619bahf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FL7ts1nT8nHMRTSm8pGZx7tG1PelpVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278945875398-s7mct62s74mhreph35qephn0619bahf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278945875398-49m5beko4cui82b8s23l8hrosu0hpaj4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.djamware.rnemailauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
